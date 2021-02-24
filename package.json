@@ -1,0 +1,23 @@
+{
+  "name": "review_temp",
+  "version": "1.0.0",
+  "description": "Review template for a website.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConnorTews/review_temp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConnorTews/review_temp/issues"
+  },
+  "homepage": "https://github.com/ConnorTews/review_temp#readme",
+  "dependencies": {
+    "feather-icons": "^4.28.0"
+  }
+}
