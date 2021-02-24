@@ -8,7 +8,7 @@ Review template for a website.
   <!-- 3. > *Run* $ npx pwa-asset-generator favicon.ico icons/ --index --manifest manifest.json -->
 
 ### New favicon
-*Run this in the tarminal*
+*Run this in the terminal*
 > npx pwa-asset-generator favicon.ico icons/ --index --manifest manifest.json
 
 ### Created By
